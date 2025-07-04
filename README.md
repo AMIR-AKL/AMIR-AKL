@@ -10,10 +10,8 @@
 <img src='https://skillicons.dev/icons?i=html,css,tailwind,js,nodejs,react&perline=3'/>
 
 <div>
-  <h3>پروژه ها:</h3>
-  https://glint.webgoody.ir
-  
-  https://kasuka-dist.vercel.app
+  <h3>سایت</h3>
+https://webgoody.ir
 </div>
 
 <div>
