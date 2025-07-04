@@ -22,7 +22,7 @@ https://webgoody.ir
 </div>
 <br/>
 <div>
-  <img src='https://github-readme-stats.vercel.app/api?username=AMIR-AKL&show=reviews&show_icons=true&theme=highcontrast'/>
+<!--   <img src='https://github-readme-stats.vercel.app/api?username=AMIR-AKL&show=reviews&show_icons=true&theme=highcontrast'/> -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AMIR-AKL&layout=donut&theme=tokyonight)
 </div>
