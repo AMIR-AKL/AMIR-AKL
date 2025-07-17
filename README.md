@@ -7,7 +7,7 @@
 
 <h3>مهارت ها:</h3>
 
-<img src='https://skillicons.dev/icons?i=html,css,tailwind,js,nodejs,react&perline=3'/>
+<img src='https://skillicons.dev/icons?i=html,css,tailwind,js,react&perline=3'/>
 
 <div>
   <h3>سایت</h3>
